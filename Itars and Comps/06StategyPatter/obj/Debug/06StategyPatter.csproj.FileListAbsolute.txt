@@ -1,0 +1,9 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\06StategyPatter\bin\Debug\06StategyPatter.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\06StategyPatter\bin\Debug\06StategyPatter.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\06StategyPatter\bin\Debug\06StategyPatter.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\06StategyPatter\obj\Debug\06StategyPatter.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\06StategyPatter\obj\Debug\06StategyPatter.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\06StategyPatter\obj\Debug\06StategyPatter.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\06StategyPatter\bin\Debug\06StategyPatter.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\06StategyPatter\obj\Debug\06StategyPatter.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\06StategyPatter\obj\Debug\06StategyPatter.pdb

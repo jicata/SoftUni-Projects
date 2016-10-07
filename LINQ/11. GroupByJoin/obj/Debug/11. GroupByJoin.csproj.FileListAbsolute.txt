@@ -1,0 +1,6 @@
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\11. GroupByJoin\bin\Debug\_11.GroupByJoin.exe.config
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\11. GroupByJoin\bin\Debug\_11.GroupByJoin.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\11. GroupByJoin\bin\Debug\_11.GroupByJoin.pdb
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\11. GroupByJoin\obj\Debug\11. GroupByJoin.csprojResolveAssemblyReference.cache
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\11. GroupByJoin\obj\Debug\_11.GroupByJoin.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\11. GroupByJoin\obj\Debug\_11.GroupByJoin.pdb

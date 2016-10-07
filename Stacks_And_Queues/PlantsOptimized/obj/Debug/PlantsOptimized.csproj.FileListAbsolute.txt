@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\PlantsOptimized\bin\Debug\PlantsOptimized.exe.config
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\PlantsOptimized\bin\Debug\PlantsOptimized.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\PlantsOptimized\bin\Debug\PlantsOptimized.pdb
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\PlantsOptimized\obj\Debug\PlantsOptimized.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\PlantsOptimized\obj\Debug\PlantsOptimized.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\PlantsOptimized\obj\Debug\PlantsOptimized.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\06CustomTypeAttribute\bin\Debug\06CustomTypeAttribute.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\06CustomTypeAttribute\bin\Debug\06CustomTypeAttribute.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\06CustomTypeAttribute\bin\Debug\06CustomTypeAttribute.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\06CustomTypeAttribute\obj\Debug\06CustomTypeAttribute.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\06CustomTypeAttribute\obj\Debug\06CustomTypeAttribute.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\06CustomTypeAttribute\obj\Debug\06CustomTypeAttribute.pdb

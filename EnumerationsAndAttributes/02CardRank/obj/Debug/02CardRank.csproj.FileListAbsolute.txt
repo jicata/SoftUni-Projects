@@ -1,0 +1,5 @@
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\02CardRank\bin\Debug\02CardRank.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\02CardRank\bin\Debug\02CardRank.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\02CardRank\bin\Debug\02CardRank.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\02CardRank\obj\Debug\02CardRank.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\02CardRank\obj\Debug\02CardRank.pdb

@@ -1,0 +1,2 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\01ListyIterator\bin\Debug\01ListyIterator.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\01ListyIterator\bin\Debug\01ListyIterator.exe.config

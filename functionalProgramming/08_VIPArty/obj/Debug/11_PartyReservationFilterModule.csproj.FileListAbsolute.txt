@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\08_VIPArty\bin\Debug\08_VIPArty.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\08_VIPArty\obj\Debug\08_VIPArty.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\08_VIPArty\obj\Debug\08_VIPArty.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\08_VIPArty\bin\Debug\08_VIPArty.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\08_VIPArty\bin\Debug\08_VIPArty.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\08_VIPArty\obj\Debug\11_PartyReservationFilterModule.csprojResolveAssemblyReference.cache

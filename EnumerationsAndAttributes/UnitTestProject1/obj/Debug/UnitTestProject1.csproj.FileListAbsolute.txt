@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

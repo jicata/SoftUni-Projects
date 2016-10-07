@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\ListIterator\bin\Debug\ListIterator.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\ListIterator\bin\Debug\ListIterator.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\ListIterator\bin\Debug\ListIterator.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\ListIterator\obj\Debug\03ListIterator.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\ListIterator\obj\Debug\ListIterator.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\ListIterator\obj\Debug\ListIterator.pdb

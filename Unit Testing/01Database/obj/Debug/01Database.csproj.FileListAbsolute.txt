@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\01Database\bin\Debug\01Database.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\01Database\bin\Debug\01Database.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\01Database\bin\Debug\01Database.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\01Database\obj\Debug\01Database.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\01Database\obj\Debug\01Database.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\01Database\obj\Debug\01Database.pdb

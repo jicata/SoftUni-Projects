@@ -1,0 +1,6 @@
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\ImmutableList\bin\Debug\ImmutableList.exe.config
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\ImmutableList\bin\Debug\ImmutableList.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\ImmutableList\bin\Debug\ImmutableList.pdb
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\ImmutableList\obj\Debug\ImmutableList.csprojResolveAssemblyReference.cache
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\ImmutableList\obj\Debug\ImmutableList.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\ImmutableList\obj\Debug\ImmutableList.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\01_FunctionalSandbox\bin\Debug\01_FunctionalSandbox.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\01_FunctionalSandbox\obj\Debug\01_FunctionalSandbox.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\01_FunctionalSandbox\obj\Debug\01_FunctionalSandbox.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\01_FunctionalSandbox\bin\Debug\01_FunctionalSandbox.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\01_FunctionalSandbox\bin\Debug\01_FunctionalSandbox.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\01_FunctionalSandbox\obj\Debug\99_FunctionalSandbox.csprojResolveAssemblyReference.cache

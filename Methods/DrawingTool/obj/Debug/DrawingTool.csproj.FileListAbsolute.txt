@@ -1,0 +1,6 @@
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DrawingTool\bin\Debug\DrawingTool.exe.config
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DrawingTool\bin\Debug\DrawingTool.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DrawingTool\bin\Debug\DrawingTool.pdb
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DrawingTool\obj\Debug\DrawingTool.csprojResolveAssemblyReference.cache
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DrawingTool\obj\Debug\DrawingTool.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DrawingTool\obj\Debug\DrawingTool.pdb

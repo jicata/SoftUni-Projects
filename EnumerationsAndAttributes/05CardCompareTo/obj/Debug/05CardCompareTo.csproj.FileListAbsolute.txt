@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\05CardCompareTo\bin\Debug\05CardCompareTo.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\05CardCompareTo\bin\Debug\05CardCompareTo.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\05CardCompareTo\bin\Debug\05CardCompareTo.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\05CardCompareTo\obj\Debug\05CardCompareTo.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\05CardCompareTo\obj\Debug\05CardCompareTo.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\05CardCompareTo\obj\Debug\05CardCompareTo.pdb

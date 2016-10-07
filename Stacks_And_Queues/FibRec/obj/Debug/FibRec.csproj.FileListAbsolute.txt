@@ -1,0 +1,5 @@
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\FibRec\bin\Debug\FibRec.exe.config
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\FibRec\bin\Debug\FibRec.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\FibRec\bin\Debug\FibRec.pdb
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\FibRec\obj\Debug\FibRec.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\FibRec\obj\Debug\FibRec.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\AppliedArithmetics\bin\Debug\AppliedArithmetics.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\AppliedArithmetics\bin\Debug\AppliedArithmetics.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\AppliedArithmetics\bin\Debug\AppliedArithmetics.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\AppliedArithmetics\obj\Debug\AppliedArithmetics.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\AppliedArithmetics\obj\Debug\AppliedArithmetics.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\AppliedArithmetics\obj\Debug\AppliedArithmetics.pdb

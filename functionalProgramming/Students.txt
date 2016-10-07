@@ -1,0 +1,10 @@
+FirstName LastName Age FacultyNumber Phone Email Marks GroupNumber
+Pesho Peshev 28 1114 +3598283654633 pesho@abv.bg 1
+Kaput Kaputnikov 30 1215 0282376538 kaput@kaputishte.bg 2
+Sprel Tipajev 20 3212 +359273645271 sprel@tip.org 3
+Napraven Tipov 19 1914 +359823617263 napravi@sisam.bg 1
+Smachkan Chesun 46 7213 +359276273647 michael@jackson.com 2
+Razbit Narkomanev 22 9014 0862738519 razbit@lulin.bg 3
+Scepenica Murtva 31 1867 0816372836 scepena@mnogo.mk 1
+Kaval Nadut 25 7778 0872937482 kaval@abv.bg 2
+Dolna Mastiova 24 2214 0893521094 dolna@gmail.com 3

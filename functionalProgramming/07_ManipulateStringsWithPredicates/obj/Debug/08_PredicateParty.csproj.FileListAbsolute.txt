@@ -1,0 +1,5 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\07_ManipulateStringsWithPredicates\bin\Debug\07_ManipulateStringsWithPredicates.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\07_ManipulateStringsWithPredicates\obj\Debug\07_ManipulateStringsWithPredicates.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\07_ManipulateStringsWithPredicates\obj\Debug\07_ManipulateStringsWithPredicates.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\07_ManipulateStringsWithPredicates\bin\Debug\07_ManipulateStringsWithPredicates.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\07_ManipulateStringsWithPredicates\bin\Debug\07_ManipulateStringsWithPredicates.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\05IntegrationTets\bin\Debug\_05IntegrationTets.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\05IntegrationTets\bin\Debug\_05IntegrationTets.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\05IntegrationTets\bin\Debug\_05IntegrationTets.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\05IntegrationTets\obj\Debug\05IntegrationTest.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\05IntegrationTets\obj\Debug\_05IntegrationTets.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\05IntegrationTets\obj\Debug\_05IntegrationTets.pdb

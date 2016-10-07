@@ -1,0 +1,6 @@
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\08_WeakStudetns\bin\Debug\08_WeakStudetns.exe.config
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\08_WeakStudetns\bin\Debug\08_WeakStudetns.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\08_WeakStudetns\bin\Debug\08_WeakStudetns.pdb
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\08_WeakStudetns\obj\Debug\08_WeakStudetns.csprojResolveAssemblyReference.cache
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\08_WeakStudetns\obj\Debug\08_WeakStudetns.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\08_WeakStudetns\obj\Debug\08_WeakStudetns.pdb

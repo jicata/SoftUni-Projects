@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\CustomComp\bin\Debug\CustomComp.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\CustomComp\bin\Debug\CustomComp.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\CustomComp\bin\Debug\CustomComp.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\CustomComp\obj\Debug\CustomComp.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\CustomComp\obj\Debug\CustomComp.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\CustomComp\obj\Debug\CustomComp.pdb

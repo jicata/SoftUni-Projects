@@ -1,0 +1,5 @@
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\07_ExcellentStudents\bin\Debug\07_ExcellentStudents.exe.config
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\07_ExcellentStudents\bin\Debug\07_ExcellentStudents.exe
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\07_ExcellentStudents\bin\Debug\07_ExcellentStudents.pdb
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\07_ExcellentStudents\obj\Debug\07_ExcellentStudents.exe
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\07_ExcellentStudents\obj\Debug\07_ExcellentStudents.pdb

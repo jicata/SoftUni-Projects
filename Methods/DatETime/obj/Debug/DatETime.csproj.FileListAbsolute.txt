@@ -1,0 +1,6 @@
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DatETime\bin\Debug\DatETime.exe.config
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DatETime\bin\Debug\DatETime.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DatETime\bin\Debug\DatETime.pdb
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DatETime\obj\Debug\DatETime.csprojResolveAssemblyReference.cache
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DatETime\obj\Debug\DatETime.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\DatETime\obj\Debug\DatETime.pdb

@@ -1,0 +1,9 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\02KingsGambit\bin\Debug\02KingsGambit.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\02KingsGambit\bin\Debug\02KingsGambit.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\02KingsGambit\bin\Debug\02KingsGambit.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\02KingsGambit\obj\Debug\02KingsGambit.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\02KingsGambit\obj\Debug\02KingsGambit.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\02KingsGambit\obj\Debug\02KingsGambit.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Events\02KingsGambit\bin\Debug\02KingsGambit.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Events\02KingsGambit\obj\Debug\02KingsGambit.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Events\02KingsGambit\obj\Debug\02KingsGambit.pdb

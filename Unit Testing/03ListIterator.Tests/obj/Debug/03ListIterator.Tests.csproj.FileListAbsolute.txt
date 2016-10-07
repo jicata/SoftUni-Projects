@@ -1,0 +1,8 @@
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\03ListIterator.Tests\bin\Debug\03ListIterator.Tests.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\03ListIterator.Tests\bin\Debug\03ListIterator.Tests.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\03ListIterator.Tests\bin\Debug\ListIterator.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\03ListIterator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\03ListIterator.Tests\bin\Debug\ListIterator.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\03ListIterator.Tests\obj\Debug\03ListIterator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\03ListIterator.Tests\obj\Debug\03ListIterator.Tests.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\03ListIterator.Tests\obj\Debug\03ListIterator.Tests.pdb

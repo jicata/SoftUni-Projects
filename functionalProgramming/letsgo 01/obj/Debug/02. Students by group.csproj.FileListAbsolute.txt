@@ -1,0 +1,6 @@
+C:\Users\Maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\bin\Debug\letsgo 01.exe.config
+C:\Users\Maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\bin\Debug\letsgo 01.exe
+C:\Users\Maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\bin\Debug\letsgo 01.pdb
+C:\Users\Maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\obj\Debug\02. Students by group.csprojResolveAssemblyReference.cache
+C:\Users\Maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\obj\Debug\letsgo 01.exe
+C:\Users\Maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\obj\Debug\letsgo 01.pdb

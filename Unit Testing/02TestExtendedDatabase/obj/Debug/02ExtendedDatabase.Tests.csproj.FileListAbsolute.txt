@@ -1,0 +1,8 @@
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\02TestExtendedDatabase\bin\Debug\02TestExtendedDatabase.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\02TestExtendedDatabase\bin\Debug\02TestExtendedDatabase.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\02TestExtendedDatabase\bin\Debug\02ExtendedDatabase.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\02TestExtendedDatabase\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\02TestExtendedDatabase\bin\Debug\02ExtendedDatabase.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\02TestExtendedDatabase\obj\Debug\02ExtendedDatabase.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\02TestExtendedDatabase\obj\Debug\02TestExtendedDatabase.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\02TestExtendedDatabase\obj\Debug\02TestExtendedDatabase.pdb

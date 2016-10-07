@@ -1,0 +1,7 @@
+C:\SoftUniSVN\csharp-oop-advanced\July-2016\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises-Skeleton\01HarestingFields\bin\Debug\01HarestingFields.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\01HarestingFields\bin\Debug\01HarestingFields.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\01HarestingFields\bin\Debug\01HarestingFields.exe
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\01HarestingFields\bin\Debug\01HarestingFields.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\01HarestingFields\obj\Debug\01HarestingFields.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\01HarestingFields\obj\Debug\01HarestingFields.exe
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\01HarestingFields\obj\Debug\01HarestingFields.pdb

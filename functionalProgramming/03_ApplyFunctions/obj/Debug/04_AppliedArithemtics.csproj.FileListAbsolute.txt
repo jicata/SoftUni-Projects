@@ -1,0 +1,3 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\03_ApplyFunctions\bin\Debug\03_ApplyFunctions.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\03_ApplyFunctions\obj\Debug\03_ApplyFunctions.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\03_ApplyFunctions\obj\Debug\03_ApplyFunctions.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\05_PredicateForNames\bin\Debug\05_PredicateForNames.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\05_PredicateForNames\bin\Debug\05_PredicateForNames.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\05_PredicateForNames\bin\Debug\05_PredicateForNames.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\05_PredicateForNames\obj\Debug\05_PredicateForNames.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\05_PredicateForNames\obj\Debug\05_PredicateForNames.pdb

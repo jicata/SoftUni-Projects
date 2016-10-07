@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\10InfernoInfinity\bin\Debug\10InfernoInfinity.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\10InfernoInfinity\bin\Debug\10InfernoInfinity.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\10InfernoInfinity\bin\Debug\10InfernoInfinity.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\10InfernoInfinity\obj\Debug\10InfernoInfinity.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\10InfernoInfinity\obj\Debug\10InfernoInfinity.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\10InfernoInfinity\obj\Debug\10InfernoInfinity.pdb

@@ -1,0 +1,5 @@
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\04_SortStudents\bin\Debug\04_SortStudents.exe.config
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\04_SortStudents\bin\Debug\04_SortStudents.exe
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\04_SortStudents\bin\Debug\04_SortStudents.pdb
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\04_SortStudents\obj\Debug\04_SortStudents.exe
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\04_SortStudents\obj\Debug\04_SortStudents.pdb

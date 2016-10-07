@@ -1,0 +1,2 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\07EqualityLogic\bin\Debug\07EqualityLogic.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\07EqualityLogic\bin\Debug\07EqualityLogic.exe.config

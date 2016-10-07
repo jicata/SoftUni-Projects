@@ -1,0 +1,12 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\01EventImplementation\bin\Debug\01EventImplementation.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\01EventImplementation\bin\Debug\01EventImplementation.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\01EventImplementation\bin\Debug\01EventImplementation.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\01EventImplementation\obj\Debug\01EventImplementation.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\01EventImplementation\obj\Debug\01EventImplementation.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\01EventImplementation\obj\Debug\01EventImplementation.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Events\AuthorSolutions\01EventImplementation\bin\Debug\01EventImplementation.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Events\AuthorSolutions\01EventImplementation\obj\Debug\01EventImplementation.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Events\AuthorSolutions\01EventImplementation\obj\Debug\01EventImplementation.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Events\01EventImplementation\bin\Debug\01EventImplementation.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Events\01EventImplementation\obj\Debug\01EventImplementation.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Events\01EventImplementation\obj\Debug\01EventImplementation.pdb

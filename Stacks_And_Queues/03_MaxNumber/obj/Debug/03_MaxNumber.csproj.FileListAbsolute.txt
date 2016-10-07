@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\03_MaxNumber\bin\Debug\03_MaxNumber.exe.config
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\03_MaxNumber\bin\Debug\03_MaxNumber.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\03_MaxNumber\bin\Debug\03_MaxNumber.pdb
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\03_MaxNumber\obj\Debug\03_MaxNumber.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\03_MaxNumber\obj\Debug\03_MaxNumber.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\03_MaxNumber\obj\Debug\03_MaxNumber.pdb

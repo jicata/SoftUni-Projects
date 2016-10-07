@@ -1,0 +1,8 @@
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\ReflectionSandboxer\bin\Debug\ReflectionSandboxer.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\ReflectionSandboxer\bin\Debug\ReflectionSandboxer.exe
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\ReflectionSandboxer\bin\Debug\ReflectionSandboxer.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\ReflectionSandboxer\bin\Debug\02BlackBoxInteger.exe
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\ReflectionSandboxer\bin\Debug\02BlackBoxInteger.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\ReflectionSandboxer\obj\Debug\ReflectionSandboxer.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\ReflectionSandboxer\obj\Debug\ReflectionSandboxer.exe
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\ReflectionSandboxer\obj\Debug\ReflectionSandboxer.pdb

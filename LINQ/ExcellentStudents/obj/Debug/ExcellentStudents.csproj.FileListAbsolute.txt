@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\LINQ\ExcellentStudents\bin\Debug\ExcellentStudents.exe.config
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\LINQ\ExcellentStudents\bin\Debug\ExcellentStudents.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\LINQ\ExcellentStudents\bin\Debug\ExcellentStudents.pdb
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\LINQ\ExcellentStudents\obj\Debug\ExcellentStudents.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\LINQ\ExcellentStudents\obj\Debug\ExcellentStudents.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\LINQ\ExcellentStudents\obj\Debug\ExcellentStudents.pdb

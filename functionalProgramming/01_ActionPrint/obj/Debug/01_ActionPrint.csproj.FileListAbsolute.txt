@@ -1,0 +1,5 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\01_ActionPrint\bin\Debug\01_ActionPrint.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\01_ActionPrint\bin\Debug\01_ActionPrint.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\01_ActionPrint\bin\Debug\01_ActionPrint.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\01_ActionPrint\obj\Debug\01_ActionPrint.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\01_ActionPrint\obj\Debug\01_ActionPrint.pdb

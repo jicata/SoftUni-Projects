@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\EnumerationsAndAttributes\bin\Debug\EnumerationsAndAttributes.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\EnumerationsAndAttributes\bin\Debug\EnumerationsAndAttributes.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\EnumerationsAndAttributes\bin\Debug\EnumerationsAndAttributes.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\EnumerationsAndAttributes\obj\Debug\01CardSuits.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\EnumerationsAndAttributes\obj\Debug\EnumerationsAndAttributes.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\EnumerationsAndAttributes\obj\Debug\EnumerationsAndAttributes.pdb

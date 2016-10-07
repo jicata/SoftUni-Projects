@@ -1,0 +1,9 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\03Stack\bin\Debug\03Stack.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\03Stack\bin\Debug\03Stack.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\03Stack\bin\Debug\03Stack.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\03Stack\obj\Debug\03Stack.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\03Stack\obj\Debug\03Stack.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\03Stack\obj\Debug\03Stack.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\03Stack\bin\Debug\03Stack.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\03Stack\obj\Debug\03Stack.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\03Stack\obj\Debug\03Stack.pdb

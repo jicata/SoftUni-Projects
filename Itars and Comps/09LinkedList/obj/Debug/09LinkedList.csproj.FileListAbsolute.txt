@@ -1,0 +1,1 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\09LinkedList\bin\Debug\09LinkedList.exe.config

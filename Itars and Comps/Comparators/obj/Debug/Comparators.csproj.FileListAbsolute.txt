@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Comparators\bin\Debug\Comparators.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Comparators\bin\Debug\Comparators.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Comparators\bin\Debug\Comparators.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Comparators\obj\Debug\Comparators.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Comparators\obj\Debug\Comparators.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Comparators\obj\Debug\Comparators.pdb

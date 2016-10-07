@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Maika/documents/visual studio 2015/Projects/CSharpOOP2PreludeWorkshop/WalkingGame/Content/FallingStuff/bricks.png</File>
+    <File>C:/Users/Maika/documents/visual studio 2015/Projects/CSharpOOP2PreludeWorkshop/WalkingGame/Content/FallingStuff/cheeseburger.png</File>
+    <File>C:/Users/Maika/documents/visual studio 2015/Projects/CSharpOOP2PreludeWorkshop/WalkingGame/Content/FallingStuff/flowerpot.gif</File>
+    <File>C:/Users/Maika/documents/visual studio 2015/Projects/CSharpOOP2PreludeWorkshop/WalkingGame/Content/FallingStuff/flowerpot2.gif</File>
+    <File>C:/Users/Maika/documents/visual studio 2015/Projects/CSharpOOP2PreludeWorkshop/WalkingGame/Content/FallingStuff/java.png</File>
+    <File>C:/Users/Maika/documents/visual studio 2015/Projects/CSharpOOP2PreludeWorkshop/WalkingGame/Content/FallingStuff/knife.png</File>
+    <File>C:/Users/Maika/documents/visual studio 2015/Projects/CSharpOOP2PreludeWorkshop/WalkingGame/Content/FallingStuff/sashimi.gif</File>
+    <File>C:/Users/Maika/documents/visual studio 2015/Projects/CSharpOOP2PreludeWorkshop/WalkingGame/Content/FallingStuff/skull.png</File>
+    <File>C:/Users/Maika/documents/visual studio 2015/Projects/CSharpOOP2PreludeWorkshop/WalkingGame/Content/FallingStuff/bonusObject.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,9 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\03DependencyInversion\bin\Debug\03DependencyInversion.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\03DependencyInversion\bin\Debug\03DependencyInversion.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\03DependencyInversion\bin\Debug\03DependencyInversion.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\03DependencyInversion\obj\Debug\03DependencyInversion.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\03DependencyInversion\obj\Debug\03DependencyInversion.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\03DependencyInversion\obj\Debug\03DependencyInversion.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Events\03DependencyInversion\bin\Debug\03DependencyInversion.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Events\03DependencyInversion\obj\Debug\03DependencyInversion.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Events\03DependencyInversion\obj\Debug\03DependencyInversion.pdb

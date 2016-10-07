@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\05_Sequence\bin\Debug\05_Sequence.exe.config
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\05_Sequence\bin\Debug\05_Sequence.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\05_Sequence\bin\Debug\05_Sequence.pdb
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\05_Sequence\obj\Debug\05_Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\05_Sequence\obj\Debug\05_Sequence.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\05_Sequence\obj\Debug\05_Sequence.pdb

@@ -1,0 +1,8 @@
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\04BubbleSortTest\bin\Debug\04BubbleSortTest.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\04BubbleSortTest\bin\Debug\04BubbleSortTest.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\04BubbleSortTest\bin\Debug\04BubbleSort.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\04BubbleSortTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\04BubbleSortTest\bin\Debug\04BubbleSort.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\04BubbleSortTest\obj\Debug\04BubbleSortTest.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\04BubbleSortTest\obj\Debug\04BubbleSortTest.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\04BubbleSortTest\obj\Debug\04BubbleSortTest.pdb

@@ -1,0 +1,5 @@
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\06_FilterStudentsByPhone\bin\Debug\06_FilterStudentsByPhone.exe.config
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\06_FilterStudentsByPhone\bin\Debug\06_FilterStudentsByPhone.exe
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\06_FilterStudentsByPhone\bin\Debug\06_FilterStudentsByPhone.pdb
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\06_FilterStudentsByPhone\obj\Debug\06_FilterStudentsByPhone.exe
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\06_FilterStudentsByPhone\obj\Debug\06_FilterStudentsByPhone.pdb

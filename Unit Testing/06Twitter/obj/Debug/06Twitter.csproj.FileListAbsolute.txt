@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter\bin\Debug\06Twitter.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter\bin\Debug\06Twitter.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter\bin\Debug\06Twitter.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter\obj\Debug\06Twitter.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter\obj\Debug\06Twitter.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter\obj\Debug\06Twitter.pdb

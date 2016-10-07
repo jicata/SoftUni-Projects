@@ -1,0 +1,6 @@
+c:\users\maika\documents\visual studio 2015\Projects\Methods\06_PrimeChecker\bin\Debug\06_PrimeChecker.exe.config
+c:\users\maika\documents\visual studio 2015\Projects\Methods\06_PrimeChecker\bin\Debug\06_PrimeChecker.exe
+c:\users\maika\documents\visual studio 2015\Projects\Methods\06_PrimeChecker\bin\Debug\06_PrimeChecker.pdb
+c:\users\maika\documents\visual studio 2015\Projects\Methods\06_PrimeChecker\obj\Debug\06_PrimeChecker.csprojResolveAssemblyReference.cache
+c:\users\maika\documents\visual studio 2015\Projects\Methods\06_PrimeChecker\obj\Debug\06_PrimeChecker.exe
+c:\users\maika\documents\visual studio 2015\Projects\Methods\06_PrimeChecker\obj\Debug\06_PrimeChecker.pdb

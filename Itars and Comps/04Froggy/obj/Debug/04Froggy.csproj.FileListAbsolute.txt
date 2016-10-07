@@ -1,0 +1,12 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\04Froggy\bin\Debug\04Froggy.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\04Froggy\bin\Debug\04Froggy.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\04Froggy\bin\Debug\04Froggy.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\04Froggy\obj\Debug\04Froggy.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\04Froggy\obj\Debug\04Froggy.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\04Froggy\obj\Debug\04Froggy.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\04Froggy\bin\Debug\04Froggy.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\04Froggy\obj\Debug\04Froggy.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\04Froggy\obj\Debug\04Froggy.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\04Froggy\bin\Debug\04Froggy.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\04Froggy\bin\Debug\04Froggy.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\04Froggy\obj\Debug\04Froggy.csprojResolveAssemblyReference.cache

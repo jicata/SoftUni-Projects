@@ -1,0 +1,18 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C#\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C#\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C#\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C#\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C#\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C#\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# - Simplify Attempt\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# - Simplify Attempt\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# - Simplify Attempt\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# - Simplify Attempt\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# - Simplify Attempt\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# - Simplify Attempt\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Skeleton\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Skeleton\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Skeleton\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\еьампреп\C# Skeleton\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\еьампреп\C# Skeleton\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.exe
+C:\Users\Maika\Documents\Programming\SoftUni\еьампреп\C# Skeleton\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.pdb

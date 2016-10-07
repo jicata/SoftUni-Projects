@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\04_PrimesInRange\bin\Debug\04_PrimesInRange.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\04_PrimesInRange\bin\Debug\04_PrimesInRange.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\04_PrimesInRange\bin\Debug\04_PrimesInRange.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\04_PrimesInRange\obj\Debug\04_ReverseAndExclude.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\04_PrimesInRange\obj\Debug\04_PrimesInRange.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\04_PrimesInRange\obj\Debug\04_PrimesInRange.pdb

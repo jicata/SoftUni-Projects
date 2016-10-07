@@ -1,0 +1,9 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\08PetClinic\bin\Debug\08PetClinic.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\08PetClinic\bin\Debug\08PetClinic.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\08PetClinic\bin\Debug\08PetClinic.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\08PetClinic\obj\Debug\08PetClinic.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\08PetClinic\obj\Debug\08PetClinic.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Iterators\Author's Solutions\08PetClinic\obj\Debug\08PetClinic.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\08PetClinic\bin\Debug\08PetClinic.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\08PetClinic\obj\Debug\08PetClinic.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\08PetClinic\obj\Debug\08PetClinic.pdb

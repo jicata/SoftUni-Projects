@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\00_NameSwitcher\bin\Debug\00_NameSwitcher.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\00_NameSwitcher\bin\Debug\00_NameSwitcher.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\00_NameSwitcher\bin\Debug\00_NameSwitcher.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\00_NameSwitcher\obj\Debug\00_NameSwitcher.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\00_NameSwitcher\obj\Debug\00_NameSwitcher.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\00_NameSwitcher\obj\Debug\00_NameSwitcher.csprojResolveAssemblyReference.cache

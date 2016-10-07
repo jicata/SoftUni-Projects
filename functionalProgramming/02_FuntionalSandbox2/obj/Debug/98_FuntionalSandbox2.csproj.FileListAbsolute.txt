@@ -1,0 +1,3 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\02_FuntionalSandbox2\bin\Debug\02_FuntionalSandbox2.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\02_FuntionalSandbox2\obj\Debug\02_FuntionalSandbox2.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\02_FuntionalSandbox2\obj\Debug\02_FuntionalSandbox2.pdb

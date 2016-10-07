@@ -1,0 +1,6 @@
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\05_FilterStudentsByEmailDomain\bin\Debug\05_FilterStudentsByEmailDomain.exe.config
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\05_FilterStudentsByEmailDomain\bin\Debug\05_FilterStudentsByEmailDomain.exe
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\05_FilterStudentsByEmailDomain\bin\Debug\05_FilterStudentsByEmailDomain.pdb
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\05_FilterStudentsByEmailDomain\obj\Debug\05_FilterStudentsByEmailDomain.csprojResolveAssemblyReference.cache
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\05_FilterStudentsByEmailDomain\obj\Debug\05_FilterStudentsByEmailDomain.exe
+c:\users\maika\documents\visual studio 2015\Projects\LINQ\05_FilterStudentsByEmailDomain\obj\Debug\05_FilterStudentsByEmailDomain.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\03DeckOfCards\bin\Debug\03DeckOfCards.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\03DeckOfCards\bin\Debug\03DeckOfCards.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\03DeckOfCards\bin\Debug\03DeckOfCards.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\03DeckOfCards\obj\Debug\03DeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\03DeckOfCards\obj\Debug\03DeckOfCards.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\03DeckOfCards\obj\Debug\03DeckOfCards.pdb

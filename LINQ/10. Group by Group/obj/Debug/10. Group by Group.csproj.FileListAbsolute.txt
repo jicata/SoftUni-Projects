@@ -1,0 +1,6 @@
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\10. Group by Group\bin\Debug\_10.Group_by_Group.exe.config
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\10. Group by Group\bin\Debug\_10.Group_by_Group.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\10. Group by Group\bin\Debug\_10.Group_by_Group.pdb
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\10. Group by Group\obj\Debug\10. Group by Group.csprojResolveAssemblyReference.cache
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\10. Group by Group\obj\Debug\_10.Group_by_Group.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\LINQ\10. Group by Group\obj\Debug\_10.Group_by_Group.pdb

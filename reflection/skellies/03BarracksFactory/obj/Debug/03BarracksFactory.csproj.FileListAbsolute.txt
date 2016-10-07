@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\03BarracksFactory\bin\Debug\03BarracksFactory.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\03BarracksFactory\bin\Debug\03BarracksFactory.exe
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\03BarracksFactory\bin\Debug\03BarracksFactory.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\03BarracksFactory\obj\Debug\03BarracksFactory.exe
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\03BarracksFactory\obj\Debug\03BarracksFactory.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\reflection\skellies\03BarracksFactory\obj\Debug\03BarracksFactory.csprojResolveAssemblyReference.cache

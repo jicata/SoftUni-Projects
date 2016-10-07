@@ -1,0 +1,12 @@
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\bin\Debug\06Twitter.Test.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\bin\Debug\06Twitter.Test.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\bin\Debug\06Twitter.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\bin\Debug\Castle.Core.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\bin\Debug\Moq.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\bin\Debug\06Twitter.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\bin\Debug\Castle.Core.xml
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\bin\Debug\Moq.xml
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\obj\Debug\06Twitter.Test.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\obj\Debug\06Twitter.Test.dll
+C:\Users\Maika\Documents\Programming\SoftUni\Unit Testing\06Twitter.Test\obj\Debug\06Twitter.Test.pdb

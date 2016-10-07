@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Test\bin\Debug\Test.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Test\bin\Debug\Test.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Test\bin\Debug\Test.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Test\obj\Debug\Test.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Itars and Comps\Test\obj\Debug\Test.pdb

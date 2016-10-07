@@ -1,0 +1,6 @@
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\PizzaTime\bin\Debug\PizzaTime.exe.config
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\PizzaTime\bin\Debug\PizzaTime.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\PizzaTime\bin\Debug\PizzaTime.pdb
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\PizzaTime\obj\Debug\PizzaTime.csprojResolveAssemblyReference.cache
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\PizzaTime\obj\Debug\PizzaTime.exe
+C:\Users\Maika\documents\visual studio 2015\Projects\Methods\PizzaTime\obj\Debug\PizzaTime.pdb

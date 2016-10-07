@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\ListOfPredicates\bin\Debug\ListOfPredicates.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\ListOfPredicates\bin\Debug\ListOfPredicates.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\ListOfPredicates\bin\Debug\ListOfPredicates.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\ListOfPredicates\obj\Debug\ListOfPredicates.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\ListOfPredicates\obj\Debug\ListOfPredicates.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\ListOfPredicates\obj\Debug\ListOfPredicates.pdb

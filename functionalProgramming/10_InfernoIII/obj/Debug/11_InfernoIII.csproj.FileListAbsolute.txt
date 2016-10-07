@@ -1,0 +1,3 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\10_InfernoIII\bin\Debug\10_InfernoIII.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\10_InfernoIII\obj\Debug\10_InfernoIII.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\10_InfernoIII\obj\Debug\10_InfernoIII.pdb

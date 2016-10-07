@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\05_CustomComparator\bin\Debug\05_CustomComparator.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\05_CustomComparator\obj\Debug\05_CustomComparator.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\05_CustomComparator\obj\Debug\05_CustomComparator.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\05_CustomComparator\bin\Debug\05_CustomComparator.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\05_CustomComparator\bin\Debug\05_CustomComparator.pdb
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\05_CustomComparator\obj\Debug\08_CustomComparator.csprojResolveAssemblyReference.cache

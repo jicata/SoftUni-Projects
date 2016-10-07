@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\Events\EventsSandbox\bin\Debug\EventsSandbox.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Events\EventsSandbox\obj\Debug\EventsSandbox.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Events\EventsSandbox\obj\Debug\EventsSandbox.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Events\EventsSandbox\bin\Debug\EventsSandbox.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Events\EventsSandbox\bin\Debug\EventsSandbox.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Events\EventsSandbox\obj\Debug\EventsSandboxer.csprojResolveAssemblyReference.cache

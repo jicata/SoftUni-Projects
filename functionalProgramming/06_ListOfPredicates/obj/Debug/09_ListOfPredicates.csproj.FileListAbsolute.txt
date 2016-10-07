@@ -1,0 +1,3 @@
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\06_ListOfPredicates\bin\Debug\06_ListOfPredicates.exe.config
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\06_ListOfPredicates\obj\Debug\06_ListOfPredicates.exe
+C:\Users\Maika\Documents\Visual Studio 2013\Projects\functionalProgramming\06_ListOfPredicates\obj\Debug\06_ListOfPredicates.pdb

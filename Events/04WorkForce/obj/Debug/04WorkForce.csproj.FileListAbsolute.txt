@@ -1,0 +1,15 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\04WorkForce\bin\Debug\04WorkForce.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\04WorkForce\bin\Debug\04WorkForce.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\04WorkForce\bin\Debug\04WorkForce.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\04WorkForce\obj\Debug\04WorkForce.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\04WorkForce\obj\Debug\04WorkForce.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\Events\C#\Events\04WorkForce\obj\Debug\04WorkForce.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Events\AuthorSolutions\04WorkForce\bin\Debug\04WorkForce.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Events\AuthorSolutions\04WorkForce\obj\Debug\04WorkForce.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Events\AuthorSolutions\04WorkForce\obj\Debug\04WorkForce.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Events\AuthorSolutions\04WorkForce\bin\Debug\04WorkForce.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Events\AuthorSolutions\04WorkForce\bin\Debug\04WorkForce.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\C# Events\AuthorSolutions\04WorkForce\obj\Debug\04WorkForce.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Events\04WorkForce\bin\Debug\04WorkForce.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Events\04WorkForce\obj\Debug\04WorkForce.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Events\04WorkForce\obj\Debug\04WorkForce.pdb

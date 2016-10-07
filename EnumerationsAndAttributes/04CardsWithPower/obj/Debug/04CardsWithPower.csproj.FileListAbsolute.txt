@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\04CardsWithPower\bin\Debug\04CardsWithPower.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\04CardsWithPower\bin\Debug\04CardsWithPower.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\04CardsWithPower\bin\Debug\04CardsWithPower.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\04CardsWithPower\obj\Debug\04CardsWithPower.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\04CardsWithPower\obj\Debug\04CardsWithPower.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\04CardsWithPower\obj\Debug\04CardsWithPower.pdb

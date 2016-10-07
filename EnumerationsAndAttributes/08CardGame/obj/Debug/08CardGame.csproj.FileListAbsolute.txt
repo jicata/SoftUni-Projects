@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\08CardGame\bin\Debug\08CardGame.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\08CardGame\bin\Debug\08CardGame.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\08CardGame\bin\Debug\08CardGame.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\08CardGame\obj\Debug\08CardGame.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\08CardGame\obj\Debug\08CardGame.exe
+C:\Users\Maika\Documents\Programming\SoftUni\EnumerationsAndAttributes\08CardGame\obj\Debug\08CardGame.pdb

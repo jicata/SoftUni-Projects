@@ -1,0 +1,6 @@
+c:\users\maika\documents\visual studio 2015\Projects\DefiningClasses\05. SpeedRacing\bin\Debug\_05.SpeedRacing.exe.config
+c:\users\maika\documents\visual studio 2015\Projects\DefiningClasses\05. SpeedRacing\bin\Debug\_05.SpeedRacing.exe
+c:\users\maika\documents\visual studio 2015\Projects\DefiningClasses\05. SpeedRacing\bin\Debug\_05.SpeedRacing.pdb
+c:\users\maika\documents\visual studio 2015\Projects\DefiningClasses\05. SpeedRacing\obj\Debug\05. SpeedRacing.csprojResolveAssemblyReference.cache
+c:\users\maika\documents\visual studio 2015\Projects\DefiningClasses\05. SpeedRacing\obj\Debug\_05.SpeedRacing.exe
+c:\users\maika\documents\visual studio 2015\Projects\DefiningClasses\05. SpeedRacing\obj\Debug\_05.SpeedRacing.pdb

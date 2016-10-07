@@ -1,0 +1,6 @@
+c:\users\maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\bin\Debug\letsgo 01.exe.config
+c:\users\maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\obj\Debug\letsgo 01.exe
+c:\users\maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\obj\Debug\letsgo 01.pdb
+c:\users\maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\obj\Debug\letsgo 01.csprojResolveAssemblyReference.cache
+C:\Users\Maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\bin\Debug\letsgo 01.exe
+C:\Users\Maika\documents\visual studio 2013\Projects\functionalProgramming\letsgo 01\bin\Debug\letsgo 01.pdb

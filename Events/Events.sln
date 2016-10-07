@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01EventImplementation", "01EventImplementation\01EventImplementation.csproj", "{CDCE28D2-D167-495A-A970-CC3A85CCA4D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02KingsGambit", "02KingsGambit\02KingsGambit.csproj", "{296F18B3-EAAF-4CA7-BB09-C79AAD4F041A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03DependencyInversion", "03DependencyInversion\03DependencyInversion.csproj", "{B7873049-97D9-4E54-8905-9ADC823F4059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04WorkForce", "04WorkForce\04WorkForce.csproj", "{039718E9-BDA1-4925-B0DE-4CA1B976022D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05KingsGambitExtended", "05KingsGambitExtended\05KingsGambitExtended.csproj", "{1E030273-3F55-452C-910E-37B7455F4F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsSandboxer", "EventsSandbox\EventsSandboxer.csproj", "{C19136B3-2224-4986-99D7-20B8DF52E219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCE28D2-D167-495A-A970-CC3A85CCA4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCE28D2-D167-495A-A970-CC3A85CCA4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCE28D2-D167-495A-A970-CC3A85CCA4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCE28D2-D167-495A-A970-CC3A85CCA4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296F18B3-EAAF-4CA7-BB09-C79AAD4F041A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296F18B3-EAAF-4CA7-BB09-C79AAD4F041A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296F18B3-EAAF-4CA7-BB09-C79AAD4F041A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296F18B3-EAAF-4CA7-BB09-C79AAD4F041A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7873049-97D9-4E54-8905-9ADC823F4059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7873049-97D9-4E54-8905-9ADC823F4059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7873049-97D9-4E54-8905-9ADC823F4059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7873049-97D9-4E54-8905-9ADC823F4059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039718E9-BDA1-4925-B0DE-4CA1B976022D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039718E9-BDA1-4925-B0DE-4CA1B976022D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039718E9-BDA1-4925-B0DE-4CA1B976022D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039718E9-BDA1-4925-B0DE-4CA1B976022D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E030273-3F55-452C-910E-37B7455F4F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E030273-3F55-452C-910E-37B7455F4F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E030273-3F55-452C-910E-37B7455F4F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E030273-3F55-452C-910E-37B7455F4F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19136B3-2224-4986-99D7-20B8DF52E219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19136B3-2224-4986-99D7-20B8DF52E219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19136B3-2224-4986-99D7-20B8DF52E219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19136B3-2224-4986-99D7-20B8DF52E219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
