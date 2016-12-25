@@ -4,3 +4,9 @@ C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\06_Truck\
 C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\06_Truck\obj\Debug\06_Truck.csprojResolveAssemblyReference.cache
 C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\06_Truck\obj\Debug\06_Truck.exe
 C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\06_Truck\obj\Debug\06_Truck.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\06_Truck\bin\Debug\06_Truck.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\06_Truck\bin\Debug\06_Truck.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\06_Truck\bin\Debug\06_Truck.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\06_Truck\obj\Debug\06_Truck.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\06_Truck\obj\Debug\06_Truck.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\06_Truck\obj\Debug\06_Truck.pdb

@@ -3,3 +3,9 @@ C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\FibRec\bi
 C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\FibRec\bin\Debug\FibRec.pdb
 C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\FibRec\obj\Debug\FibRec.exe
 C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\FibRec\obj\Debug\FibRec.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\FibRec\bin\Debug\FibRec.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\FibRec\bin\Debug\FibRec.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\FibRec\bin\Debug\FibRec.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\FibRec\obj\Debug\FibRec.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\FibRec\obj\Debug\FibRec.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\FibRec\obj\Debug\FibRec.pdb

@@ -4,3 +4,9 @@ c:\users\maika\documents\visual studio 2015\Projects\Stacks_And_Queues\SimpleTex
 c:\users\maika\documents\visual studio 2015\Projects\Stacks_And_Queues\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
 c:\users\maika\documents\visual studio 2015\Projects\Stacks_And_Queues\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
 C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb

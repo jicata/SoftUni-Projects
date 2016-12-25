@@ -4,3 +4,9 @@ C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\Fib\bin\D
 C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\Fib\obj\Debug\Fib.csprojResolveAssemblyReference.cache
 C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\Fib\obj\Debug\Fib.exe
 C:\Users\Maika\Documents\Visual Studio 2015\Projects\Stacks_And_Queues\Fib\obj\Debug\Fib.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\Fib\bin\Debug\Fib.exe.config
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\Fib\bin\Debug\Fib.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\Fib\bin\Debug\Fib.pdb
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\Fib\obj\Debug\Fib.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\Fib\obj\Debug\Fib.exe
+C:\Users\Maika\Documents\Programming\SoftUni\Stacks_And_Queues\Fib\obj\Debug\Fib.pdb
